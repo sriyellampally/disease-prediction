@@ -1,4 +1,4 @@
-# Disease Prediction
+#Disease Prediction
 heart disease 
 diabetes 
 lung disease 
